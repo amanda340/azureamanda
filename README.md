@@ -1,0 +1,2 @@
+# azureamanda
+test deploy
